@@ -20,7 +20,7 @@ OS Support:
 * RedHat family - tested on CentOS 5.5+ and CentOS 6.2+
 * Fedora        - not supported
 * SuSE family   - untested (initial support for yumrepo) (patches welcome)
-* Ubuntu        - presently unsupported (patches welcome)
+* Ubuntu        - tested on Ubuntu 12.04 LTS
 * Debian        - presently unsupported (patches welcome)
 
 Class documentation is available via puppetdoc.
